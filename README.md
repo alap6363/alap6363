@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @alap6363
-- Ig @ alap_s_suresh
+- 👋 Hi, 
 - 📫 How to reach me : alap.6363@gmail.com
 
 <!---
